@@ -28,6 +28,11 @@ This breaks down the last visualization by gender. Again, we can see that each g
 ![](Images/usertripsbygenderandweekday.png)
 Finally, we can see a breakdown of usage by weekday, filtered by gender and whether or not the user is a subscriber. We can see, again, a higher male usage. For non subscribers, Unknown gender makes up most usage, while for subscribers, it makes up the least.
 
+## Summary
+The most interesting, and useful, find is the realization that the majority of customers are male. This is useful because we can infer that males would continue to be the majority of customers in a new market. Using cencus data, we could easily look to see if Des Moines has more males or females. Depending on how many males are in Des Moines, we would have a good estimate on whether or not CitiBike would be successful there. Not dependent on gender, Des Moines also has workers that commute to work. Having a alternative to driving could be appealing to locals, including younger people such as university students. Another thing to consider is that Iowa has similar weather to New York, meaning that we can expect weather to impact both markets similarly.
 
+To further explore some of these implications, I would suggest the following visualization be put together:
+1. I would take a look at usage by weekday, filtered by gender AND age. Age is a critical component to understanding who is utilizing the CitiBike service. If we had a breakdown of usage by age, we could directly compare that demographic to Des Moines.
+2. I would also take a look at usage per month. Des Moines is not nearly the size of New York, so investors will need a crystal clear understanding of when bikes are being used. If December-March sees hardly any use, they should be prepared to limit the number of bikes in the city, or to temporarily relocate bikes for those months.
 
 
